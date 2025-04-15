@@ -4,7 +4,7 @@
 
 - 🔭 I'm a backend engineer at @DeliveryMuchBrasil,
 - 🎓 Bachelor in Computer Science,
-- 🌐 Passionate about web development,
+- 🌐 Passionate about programming,
 - 🌱 Actually learning Rust.
 
 <div>
